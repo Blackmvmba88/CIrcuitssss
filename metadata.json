@@ -1,0 +1,7 @@
+{
+  "name": "CircuitSense AR Assistant",
+  "description": "A cross-platform AR assistant for electronics repair, measurement, and creation. Uses computer vision to identify components, pins, and test points on PCBs, providing real-time guidance for probing and soldering.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
